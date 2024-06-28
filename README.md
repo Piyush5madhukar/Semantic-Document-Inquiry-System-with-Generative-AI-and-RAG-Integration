@@ -41,3 +41,14 @@ It leverages Streamlit and LangChain libraries to create an interactive web appl
 Added context creation by combining retrieved documents.
 Passed context and user_question to the conversational chain to generate detailed responses.
 By integrating RAG, the system retrieves relevant documents based on the user's query and then generates a detailed response using the context from those documents, providing more accurate and contextually relevant answers.
+
+
+PROJECT SNAPS:
+
+![Screenshot 2024-06-28 224424](https://github.com/Piyush5madhukar/Semantic-Document-Inquiry-System-with-Generative-AI-and-RAG-Integration/assets/105438331/3c919819-a4ea-4113-905e-a098fc35bcc5)
+
+![Screenshot 202
+![Screenshot 2024-06-28 224230](https://github.com/Piyush5madhukar/Semantic-Document-Inquiry-System-with-Generative-AI-and-RAG-Integration/assets/105438331/98d12bd3-27d7-4b60-91fc-34134f0fe589)
+4-06-28 224251](http
+![Screenshot 2024-06-28 184715](https://github.com/Piyush5madhukar/Semantic-Document-Inquiry-System-with-Generative-AI-and-RAG-Integration/assets/105438331/a34e0d06-0874-4ac6-8dfe-21fdc30781ae)
+s://github.com/Piyush5madhukar/Semantic-Document-Inquiry-System-with-Generative-AI-and-RAG-Integration/assets/105438331/cfb955d4-433e-47b1-b9fa-5bcd63027f26)
