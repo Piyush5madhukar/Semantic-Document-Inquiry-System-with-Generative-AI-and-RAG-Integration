@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
-api_key = os.getenv("GOOGLE_API_KEY")
+api_key = "API_KEY"
 genai.configure(api_key=api_key)
 
 # Function to extract text from uploaded PDFs
