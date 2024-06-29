@@ -15,7 +15,7 @@ load_dotenv()
 #api_key = "API_KEY"
 # genai.configure(api_key=os.getenv("API_KEY"))
 # genai.configure(api_key=api_key)
-api_key=st.secrets["API_KEY"]
+api_key=st.secrets["GOOGLE_API_KEY"]
 
 # Function to extract text from uploaded PDFs
 def get_pdf_text(pdf_docs):
