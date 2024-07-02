@@ -1,4 +1,5 @@
 #Streamlit web application for interacting with PDF documents through a chat interface
+here is the deployed application link: https://semantic-document-inquiry-system-with-generative-ai-and-rag-in.streamlit.app/
 
 ![roadmap](https://github.com/Piyush5madhukar/Semantic-Document-Inquiry-System-with-Generative-AI-and-RAG-Integration/assets/105438331/412182a4-9518-4c22-b542-4d31afd9899e)
 
