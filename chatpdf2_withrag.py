@@ -100,7 +100,7 @@ def user_input(user_question):
 # Main function to run the Streamlit app
 def main():
     st.set_page_config(page_title="Chat with PDF", page_icon=":pencil2:")
-    st.title("Docment Inquiry System")
+    st.title("Document Inquiry System")
 
     user_question = st.text_input("Ask a Question from the PDF Files")
 
